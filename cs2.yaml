@@ -13,7 +13,7 @@ spec:
   selector:
     run: my-app
 
-----------------------------
+---
 
 apiVersion: apps/v1
 kind: Deployment
